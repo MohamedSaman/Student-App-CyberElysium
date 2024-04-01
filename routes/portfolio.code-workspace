@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../portfolio"
+		},
+		{
+			"path": "../../../saaas"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../../xampp/htdocs/shim"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio"
+	}
+}
