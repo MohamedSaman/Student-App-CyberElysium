@@ -11,7 +11,7 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('employees', function (Blueprint $table) {
+        Schema::create('students', function (Blueprint $table) {
             $table->id();
         $table->string('name');
         $table->string('image')->nullable(); // Allow 'image' field to be nullable
